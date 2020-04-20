@@ -1,0 +1,15 @@
+{
+    "phone": "+447123456789",
+    "email": "me@example.com",
+    "address": "123 Fake Street, London, W1",
+    "socials": [
+        {
+            "name": "facebook",
+            "url": "https://facebook.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com"
+        }
+    ]
+}
