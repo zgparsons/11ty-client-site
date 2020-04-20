@@ -7,13 +7,13 @@ banners:
     blurb: "lorem ipsum dolor..."
     background: "/assets/img/slide1.jpg"
     link:
-      text: "Learn More"
+      text: "About"
       url: "/about"
   - headline: "Headline goes here"
     blurb: "lorem ipsum dolor..."
     background: "/assets/img/slide1.jpg"
     link:
-      text: "Learn More"
+      text: "About"
       url: "/about"
 about:
   title: "Lorem ipsum dolor - about us section homepage"
@@ -21,7 +21,7 @@ about:
   image: "/assets/img/about.png"
   link:
     url: "/about"
-    text: "More About"
+    text: "About"
 services:
   title: "Services"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
