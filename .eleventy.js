@@ -1,5 +1,7 @@
 module.exports = function(eleventyConfig) {
 
+    // Todo: Add Netlify CMS - https://www.netlifycms.org/docs/add-to-your-site/
+
     eleventyConfig.addPassthroughCopy("assets");
 
     return {
