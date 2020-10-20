@@ -3,21 +3,18 @@ layout: "layouts/home.njk"
 title: "Home"
 description: "Homepage for this site"
 banners:
-  - headline: "Headline goes here"
+  - logo: "/assets/img/square-event-hire-no-background.webp"
+    background: "/assets/img/sunset-in-the-park.jpg"
+    headline: ""
     blurb: "lorem ipsum dolor..."
-    background: "/assets/img/slide1.jpg"
-    link:
-      text: "About"
-      url: "/about"
-  - headline: "Headline goes here"
-    blurb: "lorem ipsum dolor..."
-    background: "/assets/img/slide1.jpg"
     link:
       text: "About"
       url: "/about"
 about:
-  title: "Lorem ipsum dolor - about us section homepage"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Exa commodo consequat.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+  title: "Welcome to P&W Event Hire!"
+  description: "Based in Croydon and Lingfield, covering London, Surrey, Kent, Hampshire, Sussex and the areas surround the M25 including Berkshire, Buckinghamshire, Hertfordshire and Essex!
+  
+  P&W Event Hire is a friendly events business which is run by Sam and Richie, two friends who love creating a great space for your event."
   image: "/assets/img/about.png"
   link:
     url: "/about"

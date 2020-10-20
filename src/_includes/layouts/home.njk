@@ -10,17 +10,10 @@
     <div class="single-slide" style="background-image: url({{ banner.background }});">
     <div class="inner">
       <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
+        <div class="row justify-content-md-center">
+          <div class="col-md-auto">
             <div class="slide-content">
-              <h2>{{ banner.headline }}</h2>
-              <p>
-                {{ banner.blurb }}
-              </p>
-              <div class="slide-btn">
-                <a href="{{ banner.link.url }}" class="button">{{ banner.link.text }}</a>
-                <a href="#" class="button-2">Live Preview</a>
-              </div>
+              <img src="{{ banner.logo }}" alt="company logo" />
             </div>
           </div>
         </div>

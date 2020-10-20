@@ -251,11 +251,11 @@ iframe {
  *   01. header
  ***************************** */
 header {
-  background-color: #222538;
+  background-color: #fff;
   padding: 18px 0; }
 
 .logo-column a.logo {
-  height: 35px;
+  height: 55px;
   padding: 5px 0; }
   .logo-column a.logo img {
     max-height: 100%; }
